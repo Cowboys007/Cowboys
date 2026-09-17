@@ -7,9 +7,9 @@ ACCOUNTS=[
 [DOCUMENTATION]
 ORG_NAME="Cowboys"
 ORG_DESCRIPTION="Cowboys are ready to become the next crypto millionaire"
-ORG_DBA="Cowboys.github.io"
-ORG_URL="https://Cowboys.github.io"
-ORG_LOGO="https://Cowboys.github.io/img/Cowboys.png"
+ORG_DBA="cowboys007.github.io"
+ORG_URL="https://cowboys007.github.io"
+ORG_LOGO="https://cowboys007.github.io/img/Cowboys.png"
 ORG_OFFICIAL_EMAIL="Cowboys007@gmail.com"
 
 [[PRINCIPALS]]
@@ -23,7 +23,7 @@ name="Cowboys"
 issuer="GDT27W7EZNXXI3O4JRX6TC5WJPAJYRAIFPU2PCFTZ7XZTQH7FAUTNQEN"
 desc="Cowboys are ready to become the next crypto millionaire"
 conditions="Withdrawal fees apply"
-image="https://Cowboys.github.io/img/Cowboys.png"
+image="https://cowboys007.github.io/img/Cowboys.png"
 status="live"
 anchor_asset="BTC"
 anchor_asset_type="crypto"
