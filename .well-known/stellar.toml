@@ -8,25 +8,25 @@ ACCOUNTS=[
 ]
 
 [DOCUMENTATION]
-ORG_NAME="qfssys"
-ORG_DESCRIPTION="You are ready to become the next crypto millionaire"
-ORG_DBA="qfssys.github.io"
-ORG_URL="https://qfssys.github.io"
-ORG_LOGO="https://qfssys.github.io/img/QXLM.png"
-ORG_OFFICIAL_EMAIL="qfs.finance2024@gmail.com"
+ORG_NAME="Cowboys"
+ORG_DESCRIPTION="Cowboys are ready to become the next crypto millionaire"
+ORG_DBA="Cowboys.github.io"
+ORG_URL="https://Cowboys.github.io"
+ORG_LOGO="https://Cowboys.github.io/img/Cowboys.png"
+ORG_OFFICIAL_EMAIL="Cowboys007@gmail.com"
 
 [[PRINCIPALS]]
-name="qfssys"
-email="qfs.finance2024@gmail.com"
-github="qfssys"
+name="Cowboys"
+email="Cowboys007@gmail.com"
+github="Cowboys007"
 
 [[CURRENCIES]]
-code="QBTC"
-name="QUANTBTC"
+code="COW"
+name="Cowboys"
 issuer="GAX46QEMVKRQKREMHQXGDF2YLOTHVY76JKZPQPV2MVIQI43EKK7SHCCZ"
-desc="Purchase each QBTC token from any holder for the value of 1 BITCOIN"
+desc="Cowboys are ready to become the next crypto millionaire"
 conditions="Withdrawal fees apply"
-image="https://qfssys.github.io/img/QBTC.png"
+image="https://Cowboys.github.io/img/Cowboys.png"
 status="live"
 anchor_asset="BTC"
 anchor_asset_type="crypto"
